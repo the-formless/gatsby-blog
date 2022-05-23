@@ -1,9 +1,11 @@
 ---
-title: "Blog Title 1"
+title: "Gatsby Site"
 date: "2022-05-21"
 ---
 
 I started making my portfolio website
+
+![DevIcons](./icons.png)
 
 ## Adding Blog Functionality
 
