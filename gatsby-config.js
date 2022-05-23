@@ -5,6 +5,7 @@ module.exports = {
     author: 'Vandit Narain Tyagi'
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-contentful',
       options: {
